@@ -54,6 +54,7 @@ The dashboard includes:
 - Revenue by segment
 
 ## 📊 Dashboard Preview
+Performance dashboard e commerce sales.png
 ![Dashboard](Performance dashboard e commerce sales.png)
 
 
